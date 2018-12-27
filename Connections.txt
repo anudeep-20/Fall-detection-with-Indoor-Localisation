@@ -1,0 +1,25 @@
+All devices Vcc, Gnd are to be properly connected.
+
+Right Glove:
+
+Bluetooth(HC-05) Rx Pin -> Attiny85 Pin 3
+Pulse Sensor Signal Pin -> Attiny Pin 6
+Gyro SDA pin -> Attiny Pin 5
+Gyro SCL pin -> Attiny Pin 7
+
+Left Glove:
+
+Bluetooth(HC-05) Rx Pin -> Attiny85 Pin 3
+GPS Rx Pin -> Attiny Pin 6
+GPS Tx Pin -> Attiny Pin 5
+Acclerometer X-Pin -> Attiny Pin 7
+
+Restroom Setup:
+
+IR sensor 1 Signal Pin -> Arduino Nano Digital Pin 2
+IR sensor 2 Signal Pin -> Arduino Nano Digital Pin 3
+Force Sensor -> Arduino Nano Analog Pin 7
+
+
+
+
